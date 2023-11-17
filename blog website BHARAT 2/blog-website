@@ -1,0 +1,8 @@
+blog-website
+|-- public
+|   |-- styles
+|       |-- style.css
+|-- views
+|   |-- index.ejs
+|   |-- newpost.ejs
+|-- app.js
